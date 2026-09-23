@@ -1,0 +1,46 @@
+export const CREDENTIALS = [
+  {
+    id: "01",
+    title: "AI Deployment & Automation",
+    organization: "EduSkills Academy",
+    type: "INTERNSHIP CERTIFICATE",
+    localDocument: "/certificates/ai automation & deployment certificate.pdf",
+  },
+  {
+    id: "02",
+    title: "Python Full Stack Developer",
+    organization: "EduSkills Academy",
+    type: "INTERNSHIP CERTIFICATE",
+    localDocument: "/certificates/python(certificate).pdf",
+  },
+  {
+    id: "03",
+    title: "Machine Learning with Python Foundations",
+    organization: "LinkedIn Learning / NASBA",
+    type: "CERTIFICATE",
+    localDocument: "/certificates/Certificate_Machine Learning with Python Foundations.pdf",
+  },
+  {
+    id: "04",
+    title: "Google AI Essentials",
+    organization: "Coursera",
+    type: "CREDENTIAL",
+    localDocument: "/certificates/Coursera-google AI certificate.pdf",
+    verificationUrl: "https://www.coursera.org/account/accomplishments/specialization/certificate/285EYK8VG8CO",
+  },
+  {
+    id: "05",
+    title: "Deloitte Australia Cyber Job Simulation",
+    organization: "Deloitte Australia",
+    type: "JOB SIMULATION CREDENTIAL",
+    localDocument: "/certificates/Delloite_completion_certificate.pdf",
+    verificationUrl: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_6PRvgThRSvBA4NQgL_1749713360542_completion_certificate.pdf",
+  },
+  {
+    id: "06",
+    title: "Claude / Anthropic AI Fluency",
+    organization: "Anthropic",
+    type: "AI LEARNING CREDENTIAL",
+    localDocument: "/certificates/ANTHROPIC CERTIFICATE.pdf",
+  },
+];
