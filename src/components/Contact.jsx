@@ -38,7 +38,7 @@ export default function Contact() {
     },
     {
       name: "Instagram",
-      url: "https://www.instagram.com/itzz__vivek__07",
+      url: "https://www.instagram.com/mevvek",
     },
     {
       name: "X (Twitter)",
